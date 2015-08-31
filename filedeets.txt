@@ -1,0 +1,3 @@
+Filetype	Count	Size
+.txt	15	655
+.rb	3	0
